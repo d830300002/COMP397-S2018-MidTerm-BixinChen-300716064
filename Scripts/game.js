@@ -98,7 +98,7 @@ let app;
     text1_result.y = 300;
     stage.addChild(text1_result);
     //text 2
-    text2_result = new createjs.Text("2","25px Arial", "#5d5c61");
+    text2_result = new createjs.Text("6","25px Arial", "#5d5c61");
     text2_result.x = 420;
     text2_result.y = 300;
     stage.addChild(text2_result);
